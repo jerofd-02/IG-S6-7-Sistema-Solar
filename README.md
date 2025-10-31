@@ -10,4 +10,4 @@ Se incuyen varios modos:
 
 ### Modo vuelo
 
-https://github.com/jerofd-02/IG-S6-7-Sistema-Solar/blob/main/Videocaptura%20de%20pantalla_20251031_101757.mp4
+![Vista previa](Videocaptura de pantalla_20251031_101757.mp4)
