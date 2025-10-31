@@ -9,3 +9,5 @@ En este caso, para hacer este trabajo, decidí hacer una composición realista d
 Se incuyen varios modos:
 
 ### Modo vuelo
+
+https://github.com/jerofd-02/IG-S6-7-Sistema-Solar/blob/main/Videocaptura%20de%20pantalla_20251031_101757.mp4
